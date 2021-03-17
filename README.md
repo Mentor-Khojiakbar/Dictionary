@@ -9,35 +9,35 @@
 
 
 
-#### 2. **Напишите программу Python в котором можно регестрировать студента и сохранить в Лист студентов, удалить студента из списка, вывести список студентов сортированном ввиде.
+#### 2. **Напишите программу Python в котором можно регистрировать студента и сохранить в лист студентов, удалить студента из списка, вывести список студентов в сортированном ввиде.
 
 ##### Welcome to the student's community
-##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 1. Register a student 2. Delete a student from the list 3. Get Students' list 0. Quit
 ##### 1
 ##### name: Someone
 ##### age: 18
 ##### id: 777
-##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 1. Register a student 2. Delete a student from the list 3. Get Students' list 0. Quit
 ##### 1
 ##### name: Unnamed
 ##### age: 19
 ##### id: 771
-##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 1. Register a student 2. Delete a student from the list 3. Get Students' list 0. Quit
 ##### 1
 ##### name: Anyine
 ##### age: 19
 ##### id: 772
-##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 1. Register a student 2. Delete a student from the list 3. Get Students' list 0. Quit
 ##### 3
 ##### Anyine
 ##### Someone
 ##### Unnamed
-##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 1. Register a student 2. Delete a student from the list 3. Get Students' list 0. Quit
 ##### 2
 ##### Enter Student's ID you wamt to delete: 772
 ##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
 ##### 3
 ##### Someone
 ##### Unnamed
-##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 1. Register a student 2. Delete a student from the list 3. Get Students' list 0. Quit
 ##### 0
