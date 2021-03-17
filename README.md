@@ -9,28 +9,35 @@
 
 
 
-#### 2. Напишите программу Python для замены последнего значения кортежей в списке.
+#### 2. **Напишите программу Python в котором можно регестрировать студента и сохранить в Лист студентов, удалить студента из списка, вывести список студентов сортированном ввиде.
 
-
-| Given List | OUTPUT |
-|   ---   | --- |
-| l = [(10, 20, 40), (40, 50, 60), (70, 80, 90)] | [(10, 20, 100), (40, 50, 100), (70, 80, 100)] |
-                    
-
-#### 3. Напишите программу Python для удаления пустых кортежей из списка кортежей.
-
-
-| Given List | OUTPUT |
-|   ---   |   ---  |
-| L = [(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')] | [('',), ('a', 'b'), ('a', 'b', 'c'), 'd'] |
-
-
-
-#### 4.Напишите программу Python для преобразования заданного кортежа положительных целых чисел в целое число.
-
-
-| Given Tupple | OUTPUT |
-|   ---   |   ---  |
-| nums = (1,2,3) | 123 |
-| nums = (10,20,40,5,70) | 102040570 |
-
+##### Welcome to the student's community
+##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 1
+##### name: Someone
+##### age: 18
+##### id: 777
+##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 1
+##### name: Unnamed
+##### age: 19
+##### id: 771
+##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 1
+##### name: Anyine
+##### age: 19
+##### id: 772
+##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 3
+##### Anyine
+##### Someone
+##### Unnamed
+##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 2
+##### Enter Student's ID you wamt to delete: 772
+##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 3
+##### Someone
+##### Unnamed
+##### 1. Register a srtudent 2. Delete a student from the list 3. Get Students' list 0. Quit
+##### 0
